@@ -1,0 +1,62 @@
+﻿Region:
+
+1: Northeast
+2: Midwest
+3: South
+4: West
+
+***************
+
+Urbanicity: 
+
+1: City
+2: Town
+3: Rural
+
+***************
+
+Gender:
+
+0: Male
+1: Female
+
+***************
+
+P2_Family_Type:
+
+1: 2 Parents Plus Siblings
+2: 2 Parents No Sibling
+3: 1 Parent Plus Siblings
+4: 1 Parent No Sibling
+5: Other
+
+***************
+
+Parent_Education:
+
+0: High School or Below
+1: College Level
+2: Graduate Level
+
+***************
+
+Non_Home_English_Speaker:
+
+0: English Speaker at Home
+1: Non-English Speaker at Home
+
+***************
+
+Full_Time_Program:
+
+0: Part-time Program
+1: Full_time Program
+
+***************
+
+C1: Kindergarden level, 1998 fall, time = 0
+C2: kindergarden level, 1999 spring, time = 0.5
+C4: 1st grade, 2000 spring, time = 1.5
+C5: 3rd grade, 2002 spring, time = 3.5
+C6: 5th grade, 2004 spring, time = 5.5
+C7: 8th grade, 2007 spring, time = 8.5
